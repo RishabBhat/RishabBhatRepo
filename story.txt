@@ -1,1 +1,3 @@
 A long time ago, in a galaxy, far, far away
+
+I am adding text to test the git status command
